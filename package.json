@@ -1,20 +1,24 @@
 {
   "name": "practicafinal_devops",
   "version": "1.0.0",
+  "description": "",
   "main": "index.test.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ItlaGRD/PracticaFinal_DevOps.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Tu nombre",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ItlaGRD/PracticaFinal_DevOps/issues"
   },
   "homepage": "https://github.com/ItlaGRD/PracticaFinal_DevOps#readme",
-  "description": ""
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
