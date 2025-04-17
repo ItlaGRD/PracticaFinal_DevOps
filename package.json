@@ -1,0 +1,20 @@
+{
+  "name": "practicafinal_devops",
+  "version": "1.0.0",
+  "main": "index.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItlaGRD/PracticaFinal_DevOps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItlaGRD/PracticaFinal_DevOps/issues"
+  },
+  "homepage": "https://github.com/ItlaGRD/PracticaFinal_DevOps#readme",
+  "description": ""
+}
